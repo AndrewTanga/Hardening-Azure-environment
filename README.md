@@ -1,6 +1,6 @@
 # Hardening-Azure-environment
 
-## In This Lab:
+## In This Project:
 1. Observation and Security Posture Assessment: This step involves observing the current state of the system and estimating its security posture.
 
 3. Implementation of System Security Hardening: This step entails implementing security measures to harden the system against potential threats.
