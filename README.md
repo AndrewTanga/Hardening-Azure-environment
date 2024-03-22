@@ -37,3 +37,13 @@
 
 [Secure Score of the system before hardening]
 ![Score before hardening](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/ca1e42fb-bec3-4f35-b456-128a10bd1834)
+
+## Steps to resolve vulnerability IR-2 Preparation - setup incident notification.
+![IR - mail](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/78b86469-52eb-427e-a46f-8f1efd83a31f)
+
+Utilazing Remediation steps to resolve this vulnerability
+![Remediations steps](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/4d7b910f-a08c-4e54-8f37-3f4a1a47c7f2)
+
+Adding apropriet users and  additional emails 
+![email added](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/d87748cd-493b-4fb2-885e-ae90801b6034)
+
