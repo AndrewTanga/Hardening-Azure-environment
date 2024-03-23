@@ -45,5 +45,6 @@ Utilazing Remediation steps to resolve this vulnerability
 ![Remediations steps](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/4d7b910f-a08c-4e54-8f37-3f4a1a47c7f2)
 
 Adding apropriet users and  additional emails 
+![email added](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/472023d9-9eea-47cd-a3e0-d63f79090203)
 
 
