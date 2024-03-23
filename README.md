@@ -49,6 +49,8 @@ Adding apropriet users and  additional emails
 
 Results IR - 2...
 
+
+
 Observing methods to to resolve vulnerability in IR-3 Detection and Analysis - create incidents on high-quality alerts
 ![Ir - 3 overview](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/17570439-f88e-4a15-8464-87bbe45a46e6)
 
