@@ -38,14 +38,16 @@
 [Secure Score of the system before hardening]
 ![Score before hardening](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/ca1e42fb-bec3-4f35-b456-128a10bd1834)
 
-Observing methods to resolve vulnerability in IR-2 Preparation - setup incident notification.
+Exploring strategies to address vulnerabilities in IR-2 Preparation - setup incident notification.
 ![IR - mail](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/78b86469-52eb-427e-a46f-8f1efd83a31f)
 
-Utilazing Remediation steps to resolve this vulnerability
+Utilazing remediation steps to resolve this vulnerability
 ![Remediations steps](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/4d7b910f-a08c-4e54-8f37-3f4a1a47c7f2)
 
 Adding apropriet users and  additional emails 
 ![email added](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/472023d9-9eea-47cd-a3e0-d63f79090203)
+
+Results IR - 2...
 
 Observing methods to to resolve vulnerability in IR-3 Detection and Analysis - create incidents on high-quality alerts
 ![Ir - 3 overview](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/17570439-f88e-4a15-8464-87bbe45a46e6)
@@ -56,7 +58,7 @@ Utilazing Remediation steps to resolve this vulnerability
 Utilazing Remediation steps to resolve this vulnerability
 ![IR - fixing the vulnerability](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/559575d7-e96c-4862-8669-52361c149067)
 
-Results IR - 2 and IR - 3...
+Results IR - 3...
 
 
 
