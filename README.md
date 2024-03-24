@@ -41,26 +41,26 @@
 Exploring strategies to address vulnerabilities in IR-2 Preparation - setup incident notification.
 ![IR - mail](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/78b86469-52eb-427e-a46f-8f1efd83a31f)
 
-Utilazing remediation steps to resolve this vulnerability
+Utilazing remediation steps to resolve 'Email notification to subscription owner for high severity alerts' vulnerability
 ![Remediations steps](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/4d7b910f-a08c-4e54-8f37-3f4a1a47c7f2)
 
 Adding apropriet users and  additional emails 
 ![email added](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/472023d9-9eea-47cd-a3e0-d63f79090203)
 
-Results IR - 2
+Vulnerability 'Email notification to subscription owner for high severity alerts' excluded
 ![IR-2](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/0186c1aa-f1fd-4fa5-8eb5-21a70ec1b084)
 
 
 Observing methods to to resolve vulnerability in IR-3 Detection and Analysis - create incidents on high-quality alerts
 ![Ir - 3 overview](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/17570439-f88e-4a15-8464-87bbe45a46e6)
 
-Utilazing Remediation steps to resolve this vulnerability
+Utilazing Remediation steps to resolve 'Microsoft Defender for Resource Manager' vulnerability
 ![IR - detailed](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/4b88d4b8-b5f7-4a4f-a2cd-b33a04f5a2b2)
 
 Utilazing Remediation steps to resolve this vulnerability
 ![IR - fixing the vulnerability](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/559575d7-e96c-4862-8669-52361c149067)
 
-Results IR - 3...
+Vulnerability 'Microsoft Defender for Resource Manager' excluded
 ![IR-3](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/e2aa055e-9509-4525-ab1f-1a11f3d4e5bc)
 
 
