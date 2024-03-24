@@ -47,8 +47,8 @@ Utilazing remediation steps to resolve this vulnerability
 Adding apropriet users and  additional emails 
 ![email added](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/472023d9-9eea-47cd-a3e0-d63f79090203)
 
-Results IR - 2...
-
+Results IR - 2
+![IR-2](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/0186c1aa-f1fd-4fa5-8eb5-21a70ec1b084)
 
 
 Observing methods to to resolve vulnerability in IR-3 Detection and Analysis - create incidents on high-quality alerts
@@ -61,6 +61,7 @@ Utilazing Remediation steps to resolve this vulnerability
 ![IR - fixing the vulnerability](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/559575d7-e96c-4862-8669-52361c149067)
 
 Results IR - 3...
+![IR-3](https://github.com/AndrewTanga/Hardening-Azure-environment/assets/93886645/e2aa055e-9509-4525-ab1f-1a11f3d4e5bc)
 
 
 
